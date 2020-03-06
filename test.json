@@ -1,0 +1,258 @@
+[
+  {
+    "id": 1,
+    "name": "About",
+    "href": "/about",
+    "sidemenu": []
+  },
+  {
+    "id": 3,
+    "name": "Components",
+    "href": "/components",
+    "sidemenu": [
+      {
+        "id": 1,
+        "navigation_id": 3,
+        "name": "Component Status",
+        "description": "",
+        "icon": "IoIosFlashOff",
+        "dropdown": []
+      },
+      {
+        "id": 2,
+        "navigation_id": 3,
+        "name": "Settings",
+        "description": null,
+        "icon": "IoIosSettings",
+        "dropdown": []
+      },
+      {
+        "id": 3,
+        "navigation_id": 3,
+        "name": "Structure",
+        "description": "Layout & Structural Components",
+        "icon": "IoIosGrid",
+        "dropdown": [
+          {
+            "id": 1,
+            "navigation_sidemenu_id": 3,
+            "name": "Frame",
+            "description": null,
+            "href": "#",
+            "item": []
+          },
+          {
+            "id": 2,
+            "navigation_sidemenu_id": 3,
+            "name": "Page",
+            "description": null,
+            "href": "page",
+            "item": [
+              {
+                "id": 1,
+                "navigation_dropdown_id": 2,
+                "name": "Test Item",
+                "description": "",
+                "href": null
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "navigation_sidemenu_id": 3,
+            "name": "Layout",
+            "description": null,
+            "href": "#",
+            "item": []
+          },
+          {
+            "id": 4,
+            "navigation_sidemenu_id": 3,
+            "name": "Topbar",
+            "description": null,
+            "href": "#",
+            "item": []
+          },
+          {
+            "id": 5,
+            "navigation_sidemenu_id": 3,
+            "name": "Sidebar",
+            "description": null,
+            "href": "#",
+            "item": []
+          },
+          {
+            "id": 6,
+            "navigation_sidemenu_id": 3,
+            "name": "Footer",
+            "description": null,
+            "href": "#",
+            "item": []
+          },
+          {
+            "id": 7,
+            "navigation_sidemenu_id": 3,
+            "name": "Card",
+            "description": null,
+            "href": "#",
+            "item": []
+          },
+          {
+            "id": 8,
+            "navigation_sidemenu_id": 3,
+            "name": "Scrollable",
+            "description": null,
+            "href": "#",
+            "item": []
+          },
+          {
+            "id": 9,
+            "navigation_sidemenu_id": 3,
+            "name": "Collabsible",
+            "description": null,
+            "href": "#",
+            "item": []
+          },
+          {
+            "id": 10,
+            "navigation_sidemenu_id": 3,
+            "name": "Tabs",
+            "description": null,
+            "href": "#",
+            "item": []
+          },
+          {
+            "id": 11,
+            "navigation_sidemenu_id": 3,
+            "name": "Flex",
+            "description": null,
+            "href": "#",
+            "item": []
+          },
+          {
+            "id": 13,
+            "navigation_sidemenu_id": 3,
+            "name": "Page Actions",
+            "description": null,
+            "href": "#",
+            "item": []
+          },
+          {
+            "id": 14,
+            "navigation_sidemenu_id": 3,
+            "name": "Empty State",
+            "description": null,
+            "href": "#",
+            "item": []
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "navigation_id": 3,
+        "name": "Navigation",
+        "description": null,
+        "icon": "IoIosList",
+        "dropdown": []
+      },
+      {
+        "id": 5,
+        "navigation_id": 3,
+        "name": "Images",
+        "description": null,
+        "icon": "IoIosImages",
+        "dropdown": []
+      },
+      {
+        "id": 6,
+        "navigation_id": 3,
+        "name": "Icons",
+        "description": null,
+        "icon": "IoIosCheckboxOutline",
+        "dropdown": []
+      },
+      {
+        "id": 7,
+        "navigation_id": 3,
+        "name": "Titles & Text",
+        "description": null,
+        "icon": "IoIosPaper",
+        "dropdown": []
+      },
+      {
+        "id": 8,
+        "navigation_id": 3,
+        "name": "Actions",
+        "description": null,
+        "icon": "IoIosColorWand",
+        "dropdown": []
+      },
+      {
+        "id": 9,
+        "navigation_id": 3,
+        "name": "Forms",
+        "description": null,
+        "icon": "IoIosToday",
+        "dropdown": []
+      },
+      {
+        "id": 10,
+        "navigation_id": 3,
+        "name": "Lists",
+        "description": null,
+        "icon": "IoIosListBox",
+        "dropdown": []
+      },
+      {
+        "id": 11,
+        "navigation_id": 3,
+        "name": "Tables",
+        "description": null,
+        "icon": "IoIosKeypad",
+        "dropdown": []
+      },
+      {
+        "id": 12,
+        "navigation_id": 3,
+        "name": "Graphs",
+        "description": null,
+        "icon": "IoIosStats",
+        "dropdown": []
+      },
+      {
+        "id": 13,
+        "navigation_id": 3,
+        "name": "Overlays",
+        "description": null,
+        "icon": "IoIosAlbums",
+        "dropdown": []
+      },
+      {
+        "id": 14,
+        "navigation_id": 3,
+        "name": "Feedback indicators",
+        "description": null,
+        "icon": "IoIosMore",
+        "dropdown": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Design",
+    "href": "/design",
+    "sidemenu": []
+  },
+  {
+    "id": 5,
+    "name": "Editor",
+    "href": "/editor",
+    "sidemenu": []
+  },
+  {
+    "id": 6,
+    "name": "Contact",
+    "href": "/contact",
+    "sidemenu": []
+  }
+]
